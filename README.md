@@ -1,5 +1,5 @@
 # Azureus
-HackFS Project Repository
+HackFS 2020 Project Repository
 
 ## Overview 
 Azureus team has identified the lack of a frictionless transaction process at toll gates and is designing a decentralized solution that allows a toll authority to conduct secure transactions by cutting out untrustworthy middlemen and on-chain verification.
